@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../task1"
+		},
+		{
+			"path": "../task3"
+		},
+		{
+			"path": "../task7"
+		},
+		{
+			"path": "../task6"
+		},
+		{
+			"path": "../task5"
+		},
+		{
+			"path": "../task4"
+		},
+		{
+			"path": "../task2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task1"
+	}
+}
